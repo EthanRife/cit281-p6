@@ -1,7 +1,7 @@
 ## Welcome to CIT281-p6
 ![Image](https://images.pexels.com/photos/270408/pexels-photo-270408.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
-After completing this project, I have:
+After completing this project, I would have:
 
 Gained experience creating and working classes with inheritance
 Gained more experience creating and working with classes
